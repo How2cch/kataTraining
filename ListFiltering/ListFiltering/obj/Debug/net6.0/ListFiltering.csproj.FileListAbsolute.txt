@@ -1,0 +1,12 @@
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.deps.json
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.dll
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.pdb
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.csproj.AssemblyReference.cache
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.AssemblyInfoInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.AssemblyInfo.cs
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.csproj.CoreCompileInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.dll
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\refint\ListFiltering.dll
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.pdb
+C:\Users\howard.chen36\Documents\kataTraining\ListFiltering\ListFiltering\obj\Debug\net6.0\ref\ListFiltering.dll
