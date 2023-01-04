@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XmxSr3Uy8Zx/Tx3chMNi0I9wUasE3Bf909Ivu5C0/GncXxtXRFZjXYnRzNkh7U2EdH418DW8Jl6xtY7TcR9S7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\howard.chen36\\Documents\\kataTraining\\EasyWallpaper\\EasyWallpaper\\EasyWallpaper.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

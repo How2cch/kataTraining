@@ -1,0 +1,3 @@
+C:\Users\howard.chen36\Documents\kataTraining\EasyWallpaper\EasyWallpaper\bin\Release\net6.0\publish\EasyWallpaper.dll
+C:\Users\howard.chen36\Documents\kataTraining\EasyWallpaper\EasyWallpaper\bin\Release\net6.0\publish\EasyWallpaper.deps.json
+C:\Users\howard.chen36\Documents\kataTraining\EasyWallpaper\EasyWallpaper\bin\Release\net6.0\publish\EasyWallpaper.pdb
