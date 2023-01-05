@@ -1,0 +1,12 @@
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\bin\Debug\net6.0\VowelCount.deps.json
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\bin\Debug\net6.0\VowelCount.dll
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\bin\Debug\net6.0\VowelCount.pdb
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\VowelCount.csproj.AssemblyReference.cache
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\VowelCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\VowelCount.AssemblyInfoInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\VowelCount.AssemblyInfo.cs
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\VowelCount.dll
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\refint\VowelCount.dll
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\VowelCount.pdb
+C:\Users\howard.chen36\Documents\kataTraining\VowelCount\VowelCount\obj\Debug\net6.0\ref\VowelCount.dll

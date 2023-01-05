@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\VowelCount.csproj", "{2E5F3016-B53E-4910-9EC2-0BA50C9DD840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCountTest", "VowelCountTest\VowelCountTest.csproj", "{8375B8DE-F435-459C-BE5A-99F07595F5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5F3016-B53E-4910-9EC2-0BA50C9DD840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5F3016-B53E-4910-9EC2-0BA50C9DD840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5F3016-B53E-4910-9EC2-0BA50C9DD840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5F3016-B53E-4910-9EC2-0BA50C9DD840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8375B8DE-F435-459C-BE5A-99F07595F5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8375B8DE-F435-459C-BE5A-99F07595F5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8375B8DE-F435-459C-BE5A-99F07595F5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8375B8DE-F435-459C-BE5A-99F07595F5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
