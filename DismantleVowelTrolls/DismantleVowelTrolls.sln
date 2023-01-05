@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DismantleVowelTrolls", "DismantleVowelTrolls\DismantleVowelTrolls.csproj", "{BEAD2262-7058-486E-ABA4-97385B5DC0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DismantleVowelTrollsTest", "DismantleVowelTrollsTest\DismantleVowelTrollsTest.csproj", "{0444FA49-F4D1-4F31-ADD9-2678DC15742C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAD2262-7058-486E-ABA4-97385B5DC0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAD2262-7058-486E-ABA4-97385B5DC0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAD2262-7058-486E-ABA4-97385B5DC0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAD2262-7058-486E-ABA4-97385B5DC0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0444FA49-F4D1-4F31-ADD9-2678DC15742C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0444FA49-F4D1-4F31-ADD9-2678DC15742C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0444FA49-F4D1-4F31-ADD9-2678DC15742C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0444FA49-F4D1-4F31-ADD9-2678DC15742C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

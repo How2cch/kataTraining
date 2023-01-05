@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YcPR5bEMs1VEaC0MK6EOB9DIDQuZCMiYErlxU+zaOxojLstkKw7kIG4LpeiZenAriKUE1UR0JfEAaq9wLy0KTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\howard.chen36\\Documents\\kataTraining\\DismantleVowelTrolls\\DismantleVowelTrolls\\DismantleVowelTrolls.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
