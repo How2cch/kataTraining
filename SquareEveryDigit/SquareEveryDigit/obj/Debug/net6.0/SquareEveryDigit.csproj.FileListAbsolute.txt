@@ -1,0 +1,12 @@
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.deps.json
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.dll
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.pdb
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.csproj.AssemblyReference.cache
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.AssemblyInfoInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.AssemblyInfo.cs
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.csproj.CoreCompileInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.dll
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\refint\SquareEveryDigit.dll
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.pdb
+C:\Users\howard.chen36\Documents\kataTraining\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\ref\SquareEveryDigit.dll

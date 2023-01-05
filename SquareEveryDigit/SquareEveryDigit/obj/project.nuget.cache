@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtCt6V+qzhbNlJwHqU37e0hvTHIbu068BgwHza9nxu0Rvk+6byq4chCvMwKgVnFS21bE+1/T8n0otyfYbkFNrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\howard.chen36\\Documents\\kataTraining\\SquareEveryDigit\\SquareEveryDigit\\SquareEveryDigit.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

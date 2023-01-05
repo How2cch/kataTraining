@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareEveryDigit", "SquareEveryDigit\SquareEveryDigit.csproj", "{3BBF41A1-9200-48B2-815B-D0C90DF9C4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareEveryDigitTest", "SquareEveryDigitTest\SquareEveryDigitTest.csproj", "{534BECD6-A9B5-48E2-ACA1-23A71365354F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBF41A1-9200-48B2-815B-D0C90DF9C4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBF41A1-9200-48B2-815B-D0C90DF9C4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBF41A1-9200-48B2-815B-D0C90DF9C4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBF41A1-9200-48B2-815B-D0C90DF9C4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534BECD6-A9B5-48E2-ACA1-23A71365354F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534BECD6-A9B5-48E2-ACA1-23A71365354F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534BECD6-A9B5-48E2-ACA1-23A71365354F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534BECD6-A9B5-48E2-ACA1-23A71365354F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
