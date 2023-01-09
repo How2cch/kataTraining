@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedCountOfCharacters", "OrderedCountOfCharacters\OrderedCountOfCharacters.csproj", "{3E0A3D62-BA53-4F6B-8283-562B52F4C9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedCountOfCharactersTest", "OrderedCountOfCharactersTest\OrderedCountOfCharactersTest.csproj", "{A1CD3D06-7FCA-45B9-B00D-DFA665810086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0A3D62-BA53-4F6B-8283-562B52F4C9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0A3D62-BA53-4F6B-8283-562B52F4C9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0A3D62-BA53-4F6B-8283-562B52F4C9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0A3D62-BA53-4F6B-8283-562B52F4C9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CD3D06-7FCA-45B9-B00D-DFA665810086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CD3D06-7FCA-45B9-B00D-DFA665810086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CD3D06-7FCA-45B9-B00D-DFA665810086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CD3D06-7FCA-45B9-B00D-DFA665810086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
