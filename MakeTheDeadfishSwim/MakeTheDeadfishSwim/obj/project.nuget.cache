@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dMXzVizWJIuQBDHuifsaiPcMTg4ZyDEeHwPNro/qzL9bF8zXLQ6o8SDpHZbT7LrO2xDSAhxjfISrt85htjTRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\howard.chen36\\Documents\\kataTraining\\MakeTheDeadfishSwim\\MakeTheDeadfishSwim\\MakeTheDeadfishSwim.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

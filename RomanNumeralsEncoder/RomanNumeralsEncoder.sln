@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsEncoder", "RomanNumeralsEncoder\RomanNumeralsEncoder.csproj", "{129E0234-D34E-453B-B586-5306E2860AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsEncoderTest", "RomanNumeralsEncoderTest\RomanNumeralsEncoderTest.csproj", "{18CB2E6D-F46D-4367-BC79-4C506521B016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129E0234-D34E-453B-B586-5306E2860AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129E0234-D34E-453B-B586-5306E2860AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129E0234-D34E-453B-B586-5306E2860AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129E0234-D34E-453B-B586-5306E2860AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CB2E6D-F46D-4367-BC79-4C506521B016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CB2E6D-F46D-4367-BC79-4C506521B016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CB2E6D-F46D-4367-BC79-4C506521B016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CB2E6D-F46D-4367-BC79-4C506521B016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UByTdpUAA/VXQJwomCwIHmSquweZxBtXM3GOgJpogmhSUd67d+V5X++XeOjaRmDMavOopXFJkC+NSyZKocnS3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\howard.chen36\\Documents\\kataTraining\\PerimeterOfSquares\\PerimeterOfSquares\\PerimeterOfSquares.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

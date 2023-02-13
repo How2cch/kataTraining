@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2v3pr7i4cpMUyoro11hOo6IIBFuF7HnDe36ZebAnVDPC0UbVD+PFsR8KN0d1aqYP5dj5D+VfIOFoDbWry1vA0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\howard.chen36\\Documents\\kataTraining\\RomanNumeralsEncoder\\RomanNumeralsEncoder\\RomanNumeralsEncoder.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

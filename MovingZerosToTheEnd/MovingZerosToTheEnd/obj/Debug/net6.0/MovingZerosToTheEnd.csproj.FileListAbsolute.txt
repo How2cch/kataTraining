@@ -1,0 +1,12 @@
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\net6.0\MovingZerosToTheEnd.deps.json
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\net6.0\MovingZerosToTheEnd.dll
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\net6.0\MovingZerosToTheEnd.pdb
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\MovingZerosToTheEnd.csproj.AssemblyReference.cache
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\MovingZerosToTheEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\MovingZerosToTheEnd.AssemblyInfoInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\MovingZerosToTheEnd.AssemblyInfo.cs
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\MovingZerosToTheEnd.csproj.CoreCompileInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\MovingZerosToTheEnd.dll
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\refint\MovingZerosToTheEnd.dll
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\MovingZerosToTheEnd.pdb
+C:\Users\howard.chen36\Documents\kataTraining\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\net6.0\ref\MovingZerosToTheEnd.dll

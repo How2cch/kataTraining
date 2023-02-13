@@ -1,0 +1,12 @@
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\bin\Debug\net6.0\PerimeterOfSquares.deps.json
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\bin\Debug\net6.0\PerimeterOfSquares.dll
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\bin\Debug\net6.0\PerimeterOfSquares.pdb
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\PerimeterOfSquares.csproj.AssemblyReference.cache
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\PerimeterOfSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\PerimeterOfSquares.AssemblyInfoInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\PerimeterOfSquares.AssemblyInfo.cs
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\PerimeterOfSquares.csproj.CoreCompileInputs.cache
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\PerimeterOfSquares.dll
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\refint\PerimeterOfSquares.dll
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\PerimeterOfSquares.pdb
+C:\Users\howard.chen36\Documents\kataTraining\PerimeterOfSquares\PerimeterOfSquares\obj\Debug\net6.0\ref\PerimeterOfSquares.dll
